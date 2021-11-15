@@ -23,7 +23,7 @@
 - After that I found the total number of projects in each dollar range in order to find the percentage of successful, failed, and canceled plays in each dollar range.
 ![image_name](https://github.com/mpayich/kickstarter-analysis/blob/main/image3.png)
 -Then I created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
-![image_name](path/to/Outcomes_based_on_goals.png)
+![image_name](https://github.com/mpayich/kickstarter-analysis/blob/main/Outcomes_based_on_goals.png)
 
 ### Challenges and Difficulties Encountered
 
