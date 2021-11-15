@@ -21,7 +21,7 @@
 -In the “Goal” column of the table, I created dollar-amount ranges so projects can be grouped based on their goal amount.
 -Then, counted the number of successful, failed, and canceled plays in each dollar range.
 - After that I found the total number of projects in each dollar range in order to find the percentage of successful, failed, and canceled plays in each dollar range.
-![image_name](path/to/image3.png)
+![image_name](https://github.com/mpayich/kickstarter-analysis/blob/main/image3.png)
 -Then I created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges and the percentage of successful, failed, or canceled projects.
 ![image_name](path/to/Outcomes_based_on_goals.png)
 
