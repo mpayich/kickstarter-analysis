@@ -5,7 +5,7 @@
 
 
 ## Analysis and Challenges
-[Kickstart_Challenge.copy](path/to/Kickstart_Challenge.copy.xlxs)
+[Kickstart_Challenge.copy](Kickstart_Challenge.copy.xlxs)
 
 ### Analysis of Outcomes Based on Launch Date
 -In order to visualize the campaign outcomes ("successful," "failed," and "canceled") based on the launch date, I first extracted the year from the “Date Created Conversion” column using the YEAR() function. 
