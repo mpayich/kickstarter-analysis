@@ -12,7 +12,7 @@
 ![image1](https://github.com/mpayich/kickstarter-analysis/blob/main/image1.png)
 -Next, I created a Theater Outcomes by Launch Date pivot table and filtered the "Parent Category" to show only the data for "theater."
 -Then, I sorted the campaign outcomes in descending order so "successful" is first.
-![image_name](path/to/image2.png)
+![image_name](https://github.com/mpayich/kickstarter-analysis/blob/main/image2.png)
 -Next, I created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 
