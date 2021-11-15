@@ -54,4 +54,4 @@ Louise’s play, Fever, came close to its fundraising goal in a short amount of 
 	- 
 
 - What are some other possible tables and/or graphs that we could create?
-	-
+	-We could look at outcomes of the campaigns based on average donation, 
