@@ -14,7 +14,7 @@
 -Then, I sorted the campaign outcomes in descending order so "successful" is first.
 ![image_name](https://github.com/mpayich/kickstarter-analysis/blob/main/image2.png)
 -Next, I created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/mpayich/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 -In order to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount I collected the outcome and goal data for the “plays” subcategory.
