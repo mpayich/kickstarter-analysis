@@ -9,7 +9,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 -In order to visualize the campaign outcomes ("successful," "failed," and "canceled") based on the launch date, I first extracted the year from the “Date Created Conversion” column using the YEAR() function. 
-![image1](path/to/image1.png)
+![image1](https://github.com/mpayich/kickstarter-analysis/blob/main/image1.png)
 -Next, I created a Theater Outcomes by Launch Date pivot table and filtered the "Parent Category" to show only the data for "theater."
 -Then, I sorted the campaign outcomes in descending order so "successful" is first.
 ![image_name](path/to/image2.png)
